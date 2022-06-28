@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRS=$PATH(find . -type d)
+PATH=DIRS=$(find . -type d)
